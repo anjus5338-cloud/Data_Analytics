@@ -8,7 +8,7 @@ plt.plot(x,y,marker = 'o')
 plt.show()
 
 #star
-'''plt.plot(x,y,marker = '*')
+plt.plot(x,y,marker = '*')
 plt.show()
 
 #point
@@ -94,7 +94,7 @@ plt.show()
 
 # vartical line
 plt.plot(x,y, marker = '|')
-plt.show()'''
+plt.show()
 
 #Format string
 plt.plot(x,y, 'o:y')
