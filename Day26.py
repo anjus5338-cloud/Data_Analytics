@@ -112,7 +112,9 @@ mylabel = np.array(["Apple","Orange","Banana","Grapes"])
 explode = np.array([0.1,0,0,0])
 color = np.array(["red","green","blue","orange"])
 plt.pie(x,labels=mylabel,explode=explode,colors = color)
+plt.legend(title = "fruits")
 plt.show()
+
 
 
 
