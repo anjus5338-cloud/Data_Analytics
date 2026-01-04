@@ -94,6 +94,31 @@ plt.subplot(3,3,5)
 plt.plot(x,y)
 plt.title("Chart-5")
 
+x =[0,1,2,4,6,8]
+y = [10,20,30,40,60,80]
+plt.subplot(3,3,6)
+plt.plot(x,y)
+plt.title("Chart-6")
+
+x =[0,1,2,4,6,8]
+y = [10,20,30,40,60,80]
+plt.subplot(3,3,7)
+plt.plot(x,y)
+plt.title("Chart-7")
+
+
+x =[0,1,2,4,6,8]
+y = [10,20,30,40,60,80]
+plt.subplot(3,3,8)
+plt.plot(x,y)
+plt.title("Chart-8")
+
+x =[0,1,2,4,6,8]
+y = [10,20,30,40,60,80]
+plt.subplot(3,3,9)
+plt.plot(x,y)
+plt.title("Chart-9")
+
 plt.suptitle("Subplots")
 
 plt.show()
